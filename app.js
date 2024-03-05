@@ -8,6 +8,14 @@ setTimeout(() => {
     console.log("999 ms past")
 }, 999);
 
+setTimeout(() => {
+    console.log("800 ms past")
+}),
+
+setTimeout(() => {
+    console.log("700 ms past")
+}),
+
 console.log("pektas")
 
 
