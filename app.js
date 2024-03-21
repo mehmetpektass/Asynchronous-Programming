@@ -16,10 +16,7 @@ setTimeout(() => {
     console.log("700 ms past")
 }),
 
-setTimeout(() => {
-    console.log("600 ms past")
-})
-console.log("pektas")
+
 
 
 /* 
