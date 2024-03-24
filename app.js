@@ -15,6 +15,12 @@ setTimeout(() => {
 setTimeout(() => {
     console.log("700 ms past")
 }),
+    setTimeout(() => {
+    console.log("700 ms past")
+}),
+    setTimeout(() => {
+    console.log("700 ms past")
+}),
 
 
 
